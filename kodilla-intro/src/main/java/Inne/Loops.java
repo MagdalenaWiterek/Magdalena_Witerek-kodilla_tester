@@ -1,3 +1,5 @@
+package Inne;
+
 public class Loops {
     public int sumNumbers(int[] numbers) {
         int result = 0;

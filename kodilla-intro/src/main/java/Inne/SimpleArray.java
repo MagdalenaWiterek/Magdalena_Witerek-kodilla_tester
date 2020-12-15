@@ -1,3 +1,5 @@
+package Inne;
+
 public class SimpleArray {
     public static void main(String[] args) {
         String [] movies = new String [5];

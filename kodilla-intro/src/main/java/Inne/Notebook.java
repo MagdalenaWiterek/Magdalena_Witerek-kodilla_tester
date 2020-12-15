@@ -1,3 +1,5 @@
+package Inne;
+
 public class Notebook {
     int weight;
     int price;
